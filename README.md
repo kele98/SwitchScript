@@ -107,3 +107,5 @@
 
 ## 截图
 ![](https://raw.githubusercontent.com/huangqian8/SwitchPlugins/main/screenshot/screenshot.png)
+
+- 2026-01-20 编译
